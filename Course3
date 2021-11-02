@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Sanket Bhave
+Divide and Conquer Algorithms
+In this module we cut one big problems into small small pieces i.e, divide and solve those indivisual problems and conquer them after words to solve big problem. This technique is used by many algorithms like sorting technique. 
